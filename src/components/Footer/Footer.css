@@ -1,0 +1,7 @@
+.dark-background {
+   background-color: #000000;
+}
+.greenHover:hover {
+   color: #1ed744 !important;
+   cursor: pointer;
+}

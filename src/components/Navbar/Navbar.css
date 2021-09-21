@@ -1,0 +1,14 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.blackNavbar {
+   background-color: #000000;
+}
+.toggleWhite {
+   background-color: #1b1b1b;
+}
+.greenHover:hover {
+   color: #1ed744;
+}

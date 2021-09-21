@@ -1,0 +1,34 @@
+.socialButton {
+  padding: 1rem 10rem;
+}
+.facebookButton {
+  background-color: #3a61b3;
+  color: #fff;
+}
+.appleButton {
+  background-color: #000000;
+  color: #fff;
+}
+.googleButton {
+  background-color: #fff;
+  color: #616467;
+  border: 1px solid #616467;
+}
+.googleButton:hover {
+  background-color: #616467;
+  color: #fff;
+}
+.loginButton {
+  background-color: #1db954;
+  color: #fff;
+}
+
+@media only screen and (max-width: 320px) {
+  .facebookButton,.appleButton,.googleButton {
+     padding: 15px 25px;
+  }
+  .loginButton{
+     margin-top: 25px;
+  }
+ 
+}
